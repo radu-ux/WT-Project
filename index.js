@@ -21,8 +21,6 @@ const Teacher = TeacherObj.Teacher
 //Variable definitions
 const app = express();
 const port = process.env.PORT || 5000;
-const Students = [{id: 1, email: 'radu.uivari99@e-uvt.ro', password: '123456'}];
-const Teachers = [{id: 1, email: 'radu.uivari22@e-uvt.ro', password: '1234567'}];
 
 initializePassport(studentPassport, 
     async (email) => {
