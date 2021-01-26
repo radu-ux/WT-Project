@@ -1,0 +1,17 @@
+#courses-container-title {
+    text-align: center;
+    font-family: 'Enriqueta';
+    color: rgb(30, 103, 160);
+}
+
+#courses-container-hr {
+    width: 50%;
+    height: 1px;
+    color: rgb(30, 103, 160);
+    background-color: rgb(30, 103, 160);
+    margin-left: 25%;
+}
+
+#main-container {
+    margin-top: 5%;
+}

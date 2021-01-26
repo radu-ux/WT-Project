@@ -1,0 +1,15 @@
+footer {
+    height: 50px;
+    text-align: center;
+    border: black;
+    padding-bottom: 10px;
+ }
+
+ .col > .btn {
+    font-size: small;
+ }
+
+ #info-text {
+     font-size: small;
+     color:darkgrey;
+ }

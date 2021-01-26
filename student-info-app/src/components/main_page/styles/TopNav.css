@@ -1,0 +1,33 @@
+#nav-row {
+    background-color: rgb(245, 246, 250);
+}
+
+#banner {
+    color:rgb(31, 98, 156);
+}
+
+.navbar-nav {
+    position: relative;
+    left: 15%;
+}
+
+.nav-item {
+    padding-left:30px;
+    padding-right:30px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 575px){
+    .nav-item {
+        font-size: x-small;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 992px) {
+    .nav-item {
+        font-size: small;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}

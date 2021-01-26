@@ -1,0 +1,17 @@
+#info-container {
+    margin-top: 8%;
+}
+
+#info-container-title {
+    text-align: center;
+    font-family: 'Enriqueta';
+    color: rgb(30, 103, 160);
+}
+
+#info-container-hr {
+    width: 50%;
+    height: 1px;
+    color: rgb(30, 103, 160);
+    background-color: rgb(30, 103, 160);
+    margin-left: 25%;
+}

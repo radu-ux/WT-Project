@@ -1,0 +1,36 @@
+#login-form-container {
+    align-items: center;
+    justify-content: center;
+}
+
+#login-card-container {
+    width: 400px;
+    height: 300px;
+}
+
+#card-container {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+#card-container {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@media screen and (min-width: 500px) and (max-width: 769px){
+    #card-container {
+        background-color: black;
+        font-size: small;
+        top: 68%;
+        width: 400px;
+        height: 100px;
+    }
+}

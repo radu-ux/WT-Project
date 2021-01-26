@@ -1,0 +1,102 @@
+{
+    "teachers": [
+        { 
+          "id": 1,
+          "courses": [
+                  {
+                      "course_name": "Web Technology",
+                      "grades": [
+                        {"year": 2014, "avg_grade": 5.31},
+                        {"year": 2015, "avg_grade": 8.00},
+                        {"year": 2016, "avg_grade": 9.78},
+                        {"year": 2017, "avg_grade": 8.88},
+                        {"year": 2018, "avg_grade": 7.31},
+                        {"year": 2019, "avg_grade": 9.20},
+                        {"year": 2020, "avg_grade": 8.28}
+                        ]
+                   }
+                ]
+        }, 
+        { 
+          "id": 2,
+          "courses": [
+                  {
+                      "course_name": "Database I",
+                      "grades": [
+                        {"year": 2014, "avg_grade": 7.00},
+                        {"year": 2015, "avg_grade": 7.50},
+                        {"year": 2016, "avg_grade": 9.82},
+                        {"year": 2017, "avg_grade": 8.35},
+                        {"year": 2018, "avg_grade": 6.65},
+                        {"year": 2019, "avg_grade": 9.17},
+                        {"year": 2020, "avg_grade": 8.28}
+                        ]
+                   }
+                ]
+        },
+        { 
+          "id": 3,
+          "courses": [
+                  {
+                      "course_name": "Programming I",
+                      "grades": [
+                        {"year": 2014, "avg_grade": 6.07},
+                        {"year": 2015, "avg_grade": 7.00},
+                        {"year": 2016, "avg_grade": 8.98},
+                        {"year": 2017, "avg_grade": 8.88},
+                        {"year": 2018, "avg_grade": 8.31},
+                        {"year": 2019, "avg_grade": 9.20},
+                        {"year": 2020, "avg_grade": 9.48}
+                        ]
+                   }
+                ]
+        },
+        { 
+          "id": 4,
+          "courses": [
+                  {
+                      "course_name": "Design Patterns",
+                      "grades": [
+                        {"year": 2014, "avg_grade": 5.31},
+                        {"year": 2015, "avg_grade": 6.00},
+                        {"year": 2016, "avg_grade": 9.78},
+                        {"year": 2017, "avg_grade": 8.38},
+                        {"year": 2018, "avg_grade": 8.22},
+                        {"year": 2019, "avg_grade": 9.59},
+                        {"year": 2020, "avg_grade": 8.28}
+                        ]
+                   }
+                ]
+        },
+        { 
+          "id": 5,
+          "courses": [
+                  {
+                      "course_name": "Algebra",
+                      "grades": [
+                        {"year": 2014, "avg_grade": 6.27},
+                        {"year": 2015, "avg_grade": 7.29},
+                        {"year": 2016, "avg_grade": 9.84},
+                        {"year": 2017, "avg_grade": 8.88},
+                        {"year": 2018, "avg_grade": 7.21},
+                        {"year": 2019, "avg_grade": 8.43},
+                        {"year": 2020, "avg_grade": 9.83}
+                        ]
+                   },
+                   {
+                    "course_name": "Algorithms and Data Structures",
+                    "grades": [
+                        {"year": 2014, "avg_grade": 9.13},
+                        {"year": 2015, "avg_grade": 9.20},
+                        {"year": 2016, "avg_grade": 9.08},
+                        {"year": 2017, "avg_grade": 8.18},
+                        {"year": 2018, "avg_grade": 9.31},
+                        {"year": 2019, "avg_grade": 7.20},
+                        {"year": 2020, "avg_grade": 8.28}
+                      ]
+                 }
+                ]
+        }
+
+    ]
+}

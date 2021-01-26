@@ -1,0 +1,11 @@
+#title {
+    font-size: xx-large;
+    color:darkblue;
+    background-color: rgb(255, 255, 255);
+}
+
+#button {
+    position: absolute;
+    top: 70%;
+    left: 43%;
+}
