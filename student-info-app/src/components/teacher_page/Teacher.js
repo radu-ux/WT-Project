@@ -33,7 +33,7 @@ function Teacher(props) {
                             <Card.Body>
                                 <Card.Title>Grade a student</Card.Title>
                                 <Card.Text>
-                                Here you can give grades to stodesnts enrolled to your course.
+                                Here you can give grades to students enrolled to your course.
                                 </Card.Text>
                                 <Button variant="primary" onClick={gradeAStudentHandler}>Grade student</Button>
                             </Card.Body>
